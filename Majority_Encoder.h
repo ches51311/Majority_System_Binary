@@ -1,0 +1,1 @@
+void Majority_Encode(int *CodeBits, int *Info_Symbol, int *ROW, int *COL, int **RMatrix);

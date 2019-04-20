@@ -1,0 +1,13 @@
+1
+5
+4
+1000000
+50000
+1
+
+//R of ReedMuller matrix
+//M of ReedMuller matrix
+//SNR
+//NUM_SIM
+//SUB_NUM_SIM
+//Decode_type : 0 is hard, 1 is soft
